@@ -9,3 +9,7 @@ Comparing lockfiles used across ecosystems and their package managers.
 | lockfile name   | `package-lock.json` | `yarn.lock`
 | format          | JSON                | almost yaml 
 | TRAIT           | XYZ                 | XYZ
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
